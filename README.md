@@ -1,5 +1,7 @@
 # PX4 Drone Autopilot
 
+***This version contains custom VTOL with special sensors used in CPP Pegasus Project.***
+
 [![Releases](https://img.shields.io/github/release/PX4/PX4-Autopilot.svg)](https://github.com/PX4/PX4-Autopilot/releases) [![DOI](https://zenodo.org/badge/22634/PX4/PX4-Autopilot.svg)](https://zenodo.org/badge/latestdoi/22634/PX4/PX4-Autopilot)
 
 [![Build Targets](https://github.com/PX4/PX4-Autopilot/actions/workflows/build_all_targets.yml/badge.svg?branch=main)](https://github.com/PX4/PX4-Autopilot/actions/workflows/build_all_targets.yml) [![SITL Tests](https://github.com/PX4/PX4-Autopilot/workflows/SITL%20Tests/badge.svg?branch=master)](https://github.com/PX4/PX4-Autopilot/actions?query=workflow%3A%22SITL+Tests%22)
@@ -35,14 +37,6 @@ This [Developer Guide](https://docs.px4.io/main/en/development/development.html)
 
 Developers should read the [Guide for Contributions](https://docs.px4.io/main/en/contribute/).
 See the [forum and chat](https://docs.px4.io/main/en/#getting-help) if you need help!
-
-
-## Weekly Dev Call
-
-The PX4 Dev Team syncs up on a [weekly dev call](https://docs.px4.io/main/en/contribute/).
-
-> **Note** The dev call is open to all interested developers (not just the core dev team). This is a great opportunity to meet the team and contribute to the ongoing development of the platform. It includes a QA session for newcomers. All regular calls are listed in the [Dronecode calendar](https://www.dronecode.org/calendar/).
-
 
 ## Maintenance Team
 
