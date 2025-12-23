@@ -25,7 +25,7 @@ PX4 is highly portable, OS-independent and supports Linux, NuttX and MacOS out o
 ## How to run
 
 In the terminal, cd into the PX4-Simulation folder and run:
-make px4_sitl vtol1_baylands
+make px4_sitl gz_vtol1_baylands
 
 This will open the vtol1 model (basic vtol with a VLP16 Lidar added to it) in the Baylands world in Gazebo Harmonic.
 To view the Lidar data, you will need to make sure you have the adequate PX4 to ROS2 bridge packages in your desired ROS2 workspace to connect Gazebo topics into ROS.
