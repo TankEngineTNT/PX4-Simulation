@@ -2,7 +2,7 @@
 #
 # @name Gazebo x500 depth
 #
-# @type Quadrotor
+# @type Epic Quadrotor
 #
 
 PX4_SIM_MODEL=${PX4_SIM_MODEL:=x500_depth}
